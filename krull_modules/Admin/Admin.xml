@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<module>
+<name>Administration</name>
+<author>Krull</author>
+<version>alpha</version>
+<desc>Le module d'administration de Krull</desc>
+<main>admin.php</main>
+</module>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<plugin>
+<name>XAJAX</name>
+<author>XAJAX</author>
+<version>0.5 beta</version>
+<desc>The easiest way to develop asynchronous Ajax applications with PHP</desc>
+<web>http://www.xajaxproject.org/</web>
+</plugin>
